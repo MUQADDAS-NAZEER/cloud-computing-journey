@@ -39,7 +39,7 @@ I signed up for *Microsoft Azure for Students, which provides free access to sev
 > These services are currently “Not in Use” but I will use them as I go through each lab. "
 
 ### 📸 Screenshots of My Azure Account:
-*(See images in the azure-setup/ folder of this repository)*
+*(See images in this repository)*
 
 
 
