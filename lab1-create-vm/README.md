@@ -1,4 +1,4 @@
-# 💻 Lab 01: Create a Virtual Machine on Azure
+# 💻 Lab 01: Create a Virtual Machine on Azure & Establish RDP Connection
 
 In this lab, I created my first virtual machine using Microsoft Azure portal. The objective was to understand how to provision a VM, choose a region, configure OS, and connect via RDP.
 
