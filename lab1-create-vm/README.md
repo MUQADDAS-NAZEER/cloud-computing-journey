@@ -20,22 +20,27 @@ In this lab, I created my first virtual machine using Microsoft Azure portal. Th
 ## 📸 Screenshots
 
 ### 🔹 Step 1: Search Virtual Machine
-![Step 1](step1_vm_search.jpg)
+![Step 1](Step1_vm_search.png)
 
 ### 🔹 Step 2: Click Create Azure VM
-![Step 2](step2_create_vm_button.jpg)
+![Step 2](Step2_create_vm_button.png)
 
 ### 🔹 Step 3: VM Configuration
-![Step 3](step3_vm_basic_settings.jpg)
+![Step 3](Step3_vm_basic_settings.png)
 
 ### 🔹 Step 4: Review + Create
-![Step 4](step4_review_create.jpg)
+![Step 4](step4_review_created.png)
 
 ### 🔹 Step 5: VM Created Successfully
-![Step 5](step5_vm_created.jpg)
+![Step 5](step5_vm_created.png)
 
-### 🔹 Step 6: RDP Connection Established
+### 🔹 Step 6: RDP Connection 
 ![Step 6](step6_vm_connection.jpg)
+
+### 🔹 Step 7: RDP Connection Established
+![Step 7](Step7_vm_RDPconnection.png)
+### 🔹 Step 8: RDP Connection Established
+![Step 8](step8_Ready_to_use.jpg)
 
 ---
 
