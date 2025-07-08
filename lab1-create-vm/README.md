@@ -35,11 +35,11 @@ In this lab, I created my first virtual machine using Microsoft Azure portal. Th
 ![Step 5](step5_vm_created.png)
 
 ### 🔹 Step 6: RDP Connection 
-![Step 6](step6_vm_connection.jpg)
+![Step 6](step6_vm_connection.png)
 
 ### 🔹 Step 7: RDP Connection Established
 ![Step 7](Step7_vm_RDPconnection.png)
-### 🔹 Step 8: RDP Connection Established
+### 🔹 Step 8: RDP Ready To Use
 ![Step 8](step8_Ready_to_use.jpg)
 
 ---
