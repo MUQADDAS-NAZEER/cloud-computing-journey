@@ -1,4 +1,4 @@
-#📦 Lab 02: Azure Storage Account & Blob Upload
+##📦 Lab 02: Azure Storage Account & Blob Upload
 
 This lab demonstrates how to create an Azure Storage Account, create a blob container, and upload a file into it.
 
