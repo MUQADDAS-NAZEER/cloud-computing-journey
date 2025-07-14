@@ -23,7 +23,7 @@ Access Azure File Share from your *local system (Windows 10)* using *Azure Stora
 
 Download link: [Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/)
 
-📸![1](1-Download-Azure-Storage-Explorer.png)
+![1](1-Download-Azure-Storage-Explorer.png)
 
 ---
 
@@ -31,7 +31,7 @@ Download link: [Azure Storage Explorer](https://azure.microsoft.com/en-us/produc
 
 Install the downloaded file and open the application.
 
-📸 2-Install-And-Open-Storage-Explorer.png
+![2](2-Install-And-Open-Storage-Explorer.png)
 
 ---
 
@@ -39,7 +39,7 @@ Install the downloaded file and open the application.
 
 Click on *Sign In*, and use your Microsoft Azure account credentials.
 
-📸 3-Sign-In-To-Storage.png
+![3](3-Sign-In-To-Storage.png)
 
 ---
 
@@ -48,7 +48,7 @@ Click on *Sign In*, and use your Microsoft Azure account credentials.
 In the left panel:  
 *→ Your Subscription → Storage Accounts → [Storage Account Name]*
 
-📸 4-Expand-Storage-Account.png
+![4](4-Expand-Storage-Account.png)
 
 ---
 
@@ -57,7 +57,7 @@ In the left panel:
 Navigate to:  
 *Storage Account → File Shares → myfileshare*
 
-📸 5-Open-File-Share.png
+![5](5-Open-File-Share.png)
 
 ---
 
@@ -66,7 +66,7 @@ Navigate to:
 Click on *Upload* to select a file from your system.  
 You may also create folders if needed.
 
-📸 6-Upload-File-Or-Create-Folder.png
+![6](6-Upload-File-Or-Create-Folder.png)
 
 ---
 
@@ -74,7 +74,7 @@ You may also create folders if needed.
 
 Check if your file or folder appears under the file share.
 
-📸 7-Verify-File-In-Share.png
+![7](7-Verify-File-In-Share.png)
 
 ---
 
@@ -87,7 +87,7 @@ Check if your file or folder appears under the file share.
 Go to [https://portal.azure.com](https://portal.azure.com)  
 Login using the same Azure account.
 
-📸 8-Open-Azure-Portal.png
+![8](8-Open-Azure-Portal.png)
 
 ---
 
@@ -95,7 +95,7 @@ Login using the same Azure account.
 
 Search and open the storage account you used.
 
-📸 9-Open-Storage-Account.png
+![9](9-Open-Storage-Account.png)
 
 ---
 
@@ -103,7 +103,7 @@ Search and open the storage account you used.
 
 From the storage account sidebar, select *File Shares*, then click on your file share (myfileshare).
 
-📸 10-Open-File-Shares-In-Portal.png
+![10](10-Open-File-Shares-In-Portal.png)
 
 ---
 
@@ -111,7 +111,7 @@ From the storage account sidebar, select *File Shares*, then click on your file 
 
 Check that the uploaded file appears inside the Azure portal file share as well.
 
-📸 11-Check-Uploaded-File-In-Portal.png
+![11](11-Check-Uploaded-File-In-Portal.png)
 
 ---
 
