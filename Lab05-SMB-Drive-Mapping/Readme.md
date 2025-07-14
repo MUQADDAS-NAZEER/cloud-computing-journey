@@ -23,7 +23,7 @@ Access Azure File Share from your *local system (Windows 10)* using *Azure Stora
 
 Download link: [Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/)
 
-📸 1-Download-Azure-Storage-Explorer.png
+📸![1](1-Download-Azure-Storage-Explorer.png)
 
 ---
 
