@@ -39,7 +39,7 @@ Install the downloaded file and open the application.
 
 Click on *Sign In*, and use your Microsoft Azure account credentials.
 
-📸 3-Sign-In-To-Storage-Explorer.png
+📸 3-Sign-In-To-Storage.png
 
 ---
 
@@ -95,7 +95,7 @@ Login using the same Azure account.
 
 Search and open the storage account you used.
 
-📸 9-Open-Storage-Account-From-Portal.png
+📸 9-Open-Storage-Account.png
 
 ---
 
