@@ -90,7 +90,7 @@
 - Inside VM, enable HTTP (using IIS or Python server)
 - Test http://localhost inside VM
 
-![5](5-Test-Security-Rules.png)
+![5](5-Test-RDP-Port-Blocked.png)
 
 ---
 
