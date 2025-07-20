@@ -22,7 +22,7 @@ We use this to get notified when certain actions (like high requests or transact
 ---
 
 ### 📌 Step 2: Go to Azure Monitor → Alerts  
-![2](2_open_azure_monitor.png)
+![2](2_open_monitor.png)
 
 ---
 
