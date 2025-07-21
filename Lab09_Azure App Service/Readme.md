@@ -38,7 +38,7 @@ This helps you understand how web apps are deployed on the cloud and how Azure s
 - In site/wwwroot, create a file: index.html
 ![4](4_add_index_html.png)
 
-📌 Step 5: Refresh Browser to See Your Page
+### 📌 Step 5: Refresh Browser to See Your Page
 Go back to Web App Overview → Click Browse
 ![5](5_custom_webapp_output.png)
 
