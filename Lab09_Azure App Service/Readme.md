@@ -23,14 +23,14 @@ This helps you understand how web apps are deployed on the cloud and how Azure s
 
 ### 📌 Step 2: Create Web App  
 - 
-![2](2_create_web_app.png_
+![2](2_create_web_app.png)
 
 ---
 
 ### 📌 Step 3: Open Web App in Browser  
 - Go to Web App → Click *Browse*  
 - Azure default page appears  
-![3](t3_azure_default_webapp.png)
+![3](3_azure_default_webapp.png)
 
 ---
 
@@ -40,7 +40,7 @@ This helps you understand how web apps are deployed on the cloud and how Azure s
 
 📌 Step 5: Refresh Browser to See Your Page
 Go back to Web App Overview → Click Browse
-![5](t5_custom_webapp_output.png)
+![5](5_custom_webapp_output.png)
 
 
 ✅ Lab Successfully Completed 🎉
