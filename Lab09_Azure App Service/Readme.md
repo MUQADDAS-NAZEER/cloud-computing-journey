@@ -1,4 +1,4 @@
-✅ Lab 9: Azure App Service Plan & Custom HTML Hosting
+## ✅ Lab 9: Azure App Service Plan & Custom HTML Hosting
 
 ## 🧾 Overview
 In this lab, I created and configured an Azure App Service Plan and hosted a custom static website using a simple index.html file.
