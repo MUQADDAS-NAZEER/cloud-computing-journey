@@ -55,7 +55,7 @@ Open your web app URL:
 ### 🔸 ✅ Step 5: Success!
 Logging is now enabled and working. You’re able to view live logs for monitoring, debugging, and performance tracking.
 
-![5](5-real-time-events-of-page.png) 
+![5](5-real-time-events-of-app.png) 
 
 ## ✅ Success!
 App service is now logging to the file system. We can view real-time logs under *Log Stream*, helping us monitor and troubleshoot our deployed web app.
