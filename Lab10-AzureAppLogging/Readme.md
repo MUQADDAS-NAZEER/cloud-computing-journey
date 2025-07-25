@@ -26,6 +26,7 @@ In this lab, I enabled diagnostic logs for an Azure App Service and viewed live 
 ### 🔸 Step 1: Open Your Web App   
 Navigate to:  
 Azure Portal > App Services > [web app]
+
 ![1](1-web-app-overview.png) 
 
 ---
@@ -33,6 +34,7 @@ Azure Portal > App Services > [web app]
 ### 🔸 Step 2: Enable App Service Logs  
 Go to Monitoring > App Service logs and turn ON:
 Click *Save*
+
 ![2](2-App-service-settings.png)
 
 ---
@@ -52,6 +54,7 @@ Open your web app URL:
 
 ### 🔸 ✅ Step 5: Success!
 Logging is now enabled and working. You’re able to view live logs for monitoring, debugging, and performance tracking.
+
 ![5](5-real-time-events-of-page.png) 
 
 ## ✅ Success!
