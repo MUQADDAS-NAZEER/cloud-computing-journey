@@ -66,6 +66,6 @@ successfully:
 Deployed and configured an Azure SQL Database
 Executed SQL operations in the Azure Portal
 Cleaned up cloud resources to avoid billing
-This hands-on lab enhances understanding of Micr
+This hands-on lab enhances understanding of Microsoft's PaaS offerings for databases.
 
 
