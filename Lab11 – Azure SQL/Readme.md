@@ -36,7 +36,7 @@ This lab demonstrates how to create and interact with an Azure SQL Database usin
 
 **🖼️ Screenshot:**
 
-![Step 1: Create SQL Database](step1-create-db.png)
+![Step1: Create SQL Database](Step1-Create-SQLDatabase.png)
 
 ---
 
@@ -49,7 +49,7 @@ This lab demonstrates how to create and interact with an Azure SQL Database usin
 
 **🖼️ Screenshot:**
 
-![Step 2: Configure Firewall](images/step2-firewall.png)
+![step2: Configure Firewall](step2-firewallseting.png)
 
 ---
 
@@ -57,25 +57,15 @@ This lab demonstrates how to create and interact with an Azure SQL Database usin
 
 - Go to your `StudentDB` → **Query Editor (Preview)**
 - Sign in with your SQL admin login
-- Copy-paste and run this SQL script:
 
-```sql
-CREATE TABLE Students (
-    StudentID INT PRIMARY KEY,
-    Name NVARCHAR(50),
-    Course NVARCHAR(50)
-);
+![step3:Run SQL Commands ](step3-querydb.png)
 
-INSERT INTO Students VALUES (1, 'Ayesha', 'Azure Fundamentals');
-INSERT INTO Students VALUES (2, 'Ali', 'Azure Database');
-
-SELECT * FROM Students;
-
-![Step 3:Run SQL Commands ](images/step2-firewall.png)
 
 ### 🏁 **Conclusion**
 successfully:
 Deployed and configured an Azure SQL Database
 Executed SQL operations in the Azure Portal
 Cleaned up cloud resources to avoid billing
-This hands-on lab enhances understanding of Microsoft's PaaS offerings for databases.
+This hands-on lab enhances understanding of Micr
+
+
