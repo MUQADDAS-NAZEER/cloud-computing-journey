@@ -29,7 +29,7 @@ This lab builds on Lab11 and demonstrates advanced SQL operations directly in th
 - Navigate to `StudentDB` → **Query Editor (Preview)**
 - Authenticate with your SQL admin credentials
 
-![Query Editor](images/query-editor-login.png)
+![Query Editor](step1-open-queryeditor.png)
 
 ---
 
@@ -38,7 +38,7 @@ This lab builds on Lab11 and demonstrates advanced SQL operations directly in th
 - Add a `CourseID` column to the existing `Students` table
 - Establish a foreign key relationship between the two tables
 
-![Create Courses Table](images/create-courses-table.png)
+![Create Courses Table](step2-Create-CoursesTable-and-AddRelationship.png)
 
 ---
 
@@ -46,14 +46,14 @@ This lab builds on Lab11 and demonstrates advanced SQL operations directly in th
 - Insert course records (e.g., Azure Fundamentals, Azure Database)
 - Link students to their respective courses by updating `CourseID`
 
-![Insert Data](images/insert-data.png)
+![Insert Data](step3-insert-sampledata.png)
 
 ---
 
 ### 🔹 Step 4: Perform JOIN Query
 - Use an inner join to retrieve student names along with their course and instructor
 
-![JOIN Query Output](images/join-output.png)
+![JOIN Query Output](step4-JOINData-AcrossTables.png)
 
 ---
 
@@ -61,19 +61,16 @@ This lab builds on Lab11 and demonstrates advanced SQL operations directly in th
 - Update student-course relationships
 - Attempt to delete a course that is in use (demonstrates referential integrity)
 
-![Update and Delete](images/update-delete-output.png)
+![Update and Delete](step-5-update-delete.png)
 
 ---
 
 ### 🔹 Step 6: View Final Data
 - Check the final state of the `Students` and `Courses` tables to confirm updates
 
-![Final Data View](images/final-data-view.png)
+![Final Data View](step6-View-FinalTable-State.png)
 
 ---
-
----
-
 ## 🏁 Conclusion
 
 This lab demonstrates how to perform real-world SQL operations like relationships, joins, and updates directly within Azure SQL using only the browser.Understand how to design and maintain relational databases on the cloud with enforced data integrity.
